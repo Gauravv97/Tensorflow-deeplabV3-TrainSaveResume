@@ -1,2 +1,2 @@
-# Tensorflow-deeplabV3-TrainSaveResume-on-Android
+# Tensorflow-deeplabV3-TrainSaveResume
 <br>Run On Google Colab
